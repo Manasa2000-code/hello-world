@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Manasa.I am studying in Gitam University.
